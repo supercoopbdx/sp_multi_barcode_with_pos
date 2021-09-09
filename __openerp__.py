@@ -8,7 +8,7 @@
     'name': 'POS Search Improvement',
     'version': '9.0.1.0.0',
     'category': 'Point Of Sale',
-    'summary': 'Un module pour avoir plusieurs codes barre pour un produit, avec reconnaissances depuis la caisse',
+    'summary': 'Un module pour avoir plusieurs codes barre pour un produit, avec reconnaissances depuis la caisse. fork du module pos_search_improvement',
     'author': 'La Louve et supercoop',
     'website': 'http://supercoop.fr',
     'depends': [
