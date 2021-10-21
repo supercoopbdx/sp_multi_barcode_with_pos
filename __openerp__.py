@@ -5,7 +5,7 @@
 
 
 {
-    'name': 'POS Search Improvement',
+    'name': 'multi code barre avec modification de la recherche sur la caisse',
     'version': '9.0.1.0.0',
     'category': 'Point Of Sale',
     'summary': 'Un module pour avoir plusieurs codes barre pour un produit, avec reconnaissances depuis la caisse. fork du module pos_search_improvement',
